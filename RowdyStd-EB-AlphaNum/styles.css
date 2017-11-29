@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'RowdyStd-EB-AlphaNum';
+  src: url('RowdyStd-EB-AlphaNum.eot?#iefix') format('embedded-opentype'),  url('RowdyStd-EB-AlphaNum.otf')  format('opentype'),
+	     url('RowdyStd-EB-AlphaNum.woff') format('woff'), url('RowdyStd-EB-AlphaNum.ttf')  format('truetype'), url('RowdyStd-EB-AlphaNum.svg#RowdyStd-EB-AlphaNum') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

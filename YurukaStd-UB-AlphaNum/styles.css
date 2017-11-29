@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'YurukaStd-UB-AlphaNum';
+  src: url('YurukaStd-UB-AlphaNum.eot?#iefix') format('embedded-opentype'),  url('YurukaStd-UB-AlphaNum.otf')  format('opentype'),
+	     url('YurukaStd-UB-AlphaNum.woff') format('woff'), url('YurukaStd-UB-AlphaNum.ttf')  format('truetype'), url('YurukaStd-UB-AlphaNum.svg#YurukaStd-UB-AlphaNum') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
