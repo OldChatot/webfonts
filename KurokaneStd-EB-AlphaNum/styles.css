@@ -2,7 +2,7 @@
 @font-face {
   font-family: 'KurokaneStd-EB-AlphaNum';
   src: url('KurokaneStd-EB-AlphaNum.eot?#iefix') format('embedded-opentype'),  url('KurokaneStd-EB-AlphaNum.otf')  format('opentype'),
-	     url('KurokaneStd-EB-AlphaNum.woff') format('woff'), url('KurokaneStd-EB-AlphaNum.ttf')  format('truetype'), url('KurokaneStd-EB-AlphaNum.svg#KurokaneStd-EB-AlphaNum') format('svg');
+	     url('KurokaneStd-EB-AlphaNum.woff') format('woff'), url('KurokaneStd-EB-AlphaNum.woff2') format('woff2'), url('KurokaneStd-EB-AlphaNum.ttf')  format('truetype'), url('KurokaneStd-EB-AlphaNum.svg#KurokaneStd-EB-AlphaNum') format('svg');
   font-weight: normal;
   font-style: normal;
 }
